@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//VasilisPrim.github.io/react-food-app/static/css/main.97dfa153.css",
+    "main.js": "/https//VasilisPrim.github.io/react-food-app/static/js/main.d5f38483.js",
+    "static/media/meals.jpg": "/https//VasilisPrim.github.io/react-food-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/https//VasilisPrim.github.io/react-food-app/index.html",
+    "main.97dfa153.css.map": "/https//VasilisPrim.github.io/react-food-app/static/css/main.97dfa153.css.map",
+    "main.d5f38483.js.map": "/https//VasilisPrim.github.io/react-food-app/static/js/main.d5f38483.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97dfa153.css",
+    "static/js/main.d5f38483.js"
+  ]
+}
